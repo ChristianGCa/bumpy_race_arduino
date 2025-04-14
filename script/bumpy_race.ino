@@ -1,5 +1,4 @@
 #include <LCDI2C_Multilingual.h>
-#include <SevSeg.h>
 
 LCDI2C_Generic lcd(0x27, 17, 2); // Configura o display
 
